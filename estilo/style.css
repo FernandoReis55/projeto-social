@@ -21,7 +21,6 @@ body {
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
-
 }
 
 #telefone {
@@ -33,7 +32,6 @@ body {
     height: 627px;
     width: 310px;
     background: url('../imagens/frame-iphone.png') no-repeat;
-
 }
 
 iframe#tela {
@@ -54,7 +52,6 @@ section#redes-sociais img {
     border-radius: 50%;  
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.500);
     box-sizing: border-box;
-
 }
 
 section#redes-sociais img:hover {
